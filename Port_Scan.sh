@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Banner de hacker
 echo "========================================"
 echo "          ESCÁNER DE PUERTOS           "
 echo "         ██████╗ ██╗  ██╗██╗██╗       "
