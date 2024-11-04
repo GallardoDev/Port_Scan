@@ -53,5 +53,5 @@ if ! [[ "$ip_objetivo" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
     exit 1
 fi
 
-# Llamar a la función de escaneo de puertos
+# Llamar a la función 
 escanear_puertos $ip_objetivo
